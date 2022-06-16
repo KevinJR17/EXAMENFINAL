@@ -1,7 +1,10 @@
 
+import { Navbar } from '../navegacion/Navbar';
 function App() {
   return (
-    <div>HOLA xd</div>
+   <>
+   <Navbar/>
+   </>
   );
 }
 
